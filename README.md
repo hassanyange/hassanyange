@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Native**
 
-- 💬 Ask me about **Python,Django**
+- 💬 Ask me about **Python, Django**
 
 - 📫 How to reach me **hassanyange@gmail.com**
 
